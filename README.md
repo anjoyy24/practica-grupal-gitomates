@@ -3,12 +3,12 @@
 ## 🍅DOCUMENTACIÓN 🍅
 
 1. Nombre del equipo: **GITOMATES**
-            **INTEGRANTES**
-         - Alcocer Zabala Ninel 
-         - Fernandez Quispe Joyce 
-         - Sanguino Terrazas Sebastian
-         - Tejerina Molina José Diego
-   ---
+**INTEGRANTES**
+- Alcocer Zabala Ninel 
+- Fernandez Quispe Joyce 
+- Sanguino Terrazas Sebastian
+- Tejerina Molina José Diego
+---
     
 2. GITFLOW utilizado: (por definir) 
    ---
