@@ -1,6 +1,6 @@
 # practica-grupal-gitomates
 
-##🍅 DOCUMENTACIÓN 🍅
+🍅##DOCUMENTACIÓN 🍅
 
 1. Nombre del equipo: **GITOMATES**
       1.1 **INTEGRANTES**
