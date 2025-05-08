@@ -3,7 +3,7 @@
 ## 🍅DOCUMENTACIÓN 🍅
 
 1. Nombre del equipo: **GITOMATES**
-      1.1 **INTEGRANTES**
+            **INTEGRANTES**
          - Alcocer Zabala Ninel 
          - Fernandez Quispe Joyce 
          - Sanguino Terrazas Sebastian
