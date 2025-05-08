@@ -1,6 +1,6 @@
  package calculadora;
 
-public class calculadora {
+public class Calculadora {
 
     // declaran sus varibles conrrespondientes 
     public Calculadora(){
@@ -12,4 +12,5 @@ public class calculadora {
     public double sumar (double valorA, double valorB){
         return valorA + valorB;
     }
+
 }

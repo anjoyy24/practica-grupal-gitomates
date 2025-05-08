@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class principal {
+public class Principal {
     public static void main (String arg []){
         Calculadora calcu = new Calculadora ();
         // aca pedimos los valores que neceistamos ejemplo
@@ -13,7 +13,7 @@ public class principal {
          int opcion = sp.nextInt();
     switch (opcion ) {
         case 1:
-            calu.sumar(valor1, valor2);
+            calcu.sumar(valor1, valor2);
             break;
     
         default:
