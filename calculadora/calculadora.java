@@ -12,4 +12,13 @@ public class calculadora {
     public double sumar (double valorA, double valorB){
         return valorA + valorB;
     }
+    // mi parte (ninel)
+    public static double dividir(double a, double b) {
+    if (b == 0) {
+        System.out.println("¡Error! División por cero.");
+        return 0;
+    }
+    return a / b;
+}
+
 }
