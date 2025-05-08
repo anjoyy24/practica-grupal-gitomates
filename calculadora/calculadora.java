@@ -1,6 +1,6 @@
  package calculadora;
 
-public class calculadora {
+public class Calculadora {
 
     // declaran sus varibles conrrespondientes 
     public Calculadora(){
