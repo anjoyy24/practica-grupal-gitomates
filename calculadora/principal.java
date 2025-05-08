@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
     public static void main (String arg []){
-        Calculadora calcu = new Calculadora ();
+        calculadora calcu = new calculadora ();
         // aca pedimos los valores que neceistamos ejemplo
         Scanner sp = new Scanner (System.in);
         System.out.println("ingresa el primer valor");

@@ -1,9 +1,9 @@
  package calculadora;
 
-public class Calculadora {
+public class calculadora {
 
     // declaran sus varibles conrrespondientes 
-    public Calculadora(){
+    public calculadora(){
         // este es el metodo constructor
     }
 
@@ -12,4 +12,9 @@ public class Calculadora {
     public double sumar (double valorA, double valorB){
         return valorA + valorB;
     }
+
+    public static double multiplicacion(double valorA, double valorB){
+        return valorA*valorB;
+    }
+
 }
