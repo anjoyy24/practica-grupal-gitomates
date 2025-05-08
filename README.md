@@ -19,9 +19,17 @@
 ---
 4. Buenas y malas prácticas utilizadas en el proyecto
      - Buenas y malas prácticas de *JOYCE* documentadas por *SEBASTIAN*
+       
      - Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*
+       
      - Buenas y malas prácticas de *NINEL* documentadas por *DIEGO*
+       
      - Buenas y malas prácticas de *DIEGO* documentadas por *JOYCE*
+       
 ---
 5. Git hooks o git alias utilizados
 ---
+// debemos tratar de usar: Pull Requests
+Issues
+Projects
+Organizations
