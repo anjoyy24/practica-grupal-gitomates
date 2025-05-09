@@ -11,8 +11,9 @@
 - Tejerina Molina José Diego
 ---
     
-2. GITFLOW utilizado: (por definir) 
-   ---
+2. GITFLOW utilizado: GITHUB FLOW 
+---
+
 3. BITACORA DEL PROYECTO (con relación al GitFlow ¿Les sirve ese GitFlow? ¿Qué problemas tuvieron? ¿Apareció algún conflicto? ¿Quién generó el conflicto y por qué?
 )
 
