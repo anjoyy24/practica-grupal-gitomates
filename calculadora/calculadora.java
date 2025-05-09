@@ -12,21 +12,7 @@ public class Calculadora {
     public double sumar (double valorA, double valorB){
         return valorA + valorB;
     }
-    public double resta(double valorA, double valorB){
-        return valorA - valorB;
-    }
-    public double multiplicacion(double valorA, double valorB){ 
-        return valorA * valorB;
-    }
-    public double division(double valorA, double valorB){
-        double s = 0;
-        if (valorA < 0 && valorB > 0) {
-            s = valorB/valorA;
-        }else if (valorA> 0 && valorB<0) {
-            s = valorA/valorB;
-        }
-        return s;
-    }
+    
     public double potencia(double valorA, double valorB){
         double res;
         res = Math.pow(valorA, valorB);
@@ -40,5 +26,6 @@ public class Calculadora {
         return res;
 
     }
+    
     
 }
