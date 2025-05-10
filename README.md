@@ -32,9 +32,4 @@ Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que c
      - Buenas y malas prácticas de *DIEGO* documentadas por *JOYCE*
        
 ---
-5. Git hooks o git alias utilizados
----
-// debemos tratar de usar: Pull Requests
-Issues
-Projects
-Organizations
+
