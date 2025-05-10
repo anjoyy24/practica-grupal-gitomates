@@ -24,7 +24,7 @@ Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que c
 ---
 4. Buenas y malas prácticas utilizadas en el proyecto
      - Buenas y malas prácticas de *JOYCE* documentadas por *SEBASTIAN*
-       Buenas prácticas:
+   - Buenas prácticas:
 - Se usó el formato de una rama bien estructurada
 - Eliminó algunas ramas que ya fueron usadas
 Malas prácticas
