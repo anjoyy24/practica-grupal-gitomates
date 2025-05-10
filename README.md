@@ -30,8 +30,12 @@ Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que c
 Malas prácticas
 - No hizo uso de los prefijos en los commits 
 - Al hacer el merge no combinó bien a una de las ramas
-     - Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*
-       
+
+- Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*
+mal nombre en el commit , solo puse multiplicacion y deberia poner literalemente algo como add metodo multiplicacion
+No usa verbos imperativos
+no usa prefijos para hacer mas semanticos sus commits
+---
      - Buenas y malas prácticas de *NINEL* documentadas por *DIEGO*
        
      - Buenas y malas prácticas de *DIEGO* documentadas por *JOYCE*
