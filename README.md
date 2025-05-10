@@ -24,16 +24,16 @@ Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que c
 ---
 4. Buenas y malas prácticas utilizadas en el proyecto
 --- 
-- Buenas y malas prácticas de *JOYCE* documentadas por *SEBASTIAN*
-  Buenas prácticas:
-  Se usó el formato de una rama bien estructurada
-  Eliminó algunas ramas que ya fueron usadas
-   Malas prácticas:
-  No hizo uso de los prefijos en los commits 
-  Al hacer el merge no combinó bien a una de las ramas
+- Buenas y malas prácticas de *JOYCE* documentadas por *SEBASTIAN*:
+Buenas prácticas:
+Se usó el formato de una rama bien estructurada
+Eliminó algunas ramas que ya fueron usadas
+Malas prácticas:
+No hizo uso de los prefijos en los commits 
+Al hacer el merge no combinó bien a una de las ramas
 ---
 - Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*:
- Malas prácticas: 
+Malas prácticas: 
 Mal nombre en el commit , solo puso multiplicacion y faltan prefijos como add metodo multiplicacion
 No usa verbos imperativos
 no usa prefijos para hacer mas semanticos sus commits
@@ -43,7 +43,7 @@ El nombre aunque sin adjetivo describia literalmente lo que añadió
 Menos de 50 caracteres en el nombre del commit
 ---
 - Buenas y malas prácticas de *NINEL* documentadas por *DIEGO*
-  **malas prácticas**:
+**malas prácticas**:
 Commits y ramas iniciales mal nombradas
 Mensajes sin mucho contexto
 
@@ -57,12 +57,12 @@ Escribió buenos nombres de rama
 
 - Buenas y malas prácticas de *DIEGO* documentadas por *JOYCE*
 
-   **Buenas practicas:**
+**Buenas practicas:**
 Nombró bien a su rama
 
 Nombró bien algunos de los commits que hizo
   
-   **Malas practicas:**
+**Malas practicas:**
 Creó una rama extra que se llamaba ramaDiego la cual no explicaba lo que hacía
 
 ---
