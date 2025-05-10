@@ -27,4 +27,8 @@ public class Calculadora {
     }
     
     
+    public double restar (double valorA, double valorB){
+        return valorA - valorB;
+    }
+
 }
