@@ -31,8 +31,9 @@ Malas prácticas
 - No hizo uso de los prefijos en los commits 
 - Al hacer el merge no combinó bien a una de las ramas
 
-- Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*
-mal nombre en el commit , solo puse multiplicacion y deberia poner literalemente algo como add metodo multiplicacion
+- Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*:
+  
+Mal nombre en el commit , solo puso multiplicacion y faltan prefijos como add metodo multiplicacion
 No usa verbos imperativos
 no usa prefijos para hacer mas semanticos sus commits
 
