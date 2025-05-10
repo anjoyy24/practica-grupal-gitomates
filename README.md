@@ -24,7 +24,12 @@ Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que c
 ---
 4. Buenas y malas prácticas utilizadas en el proyecto
      - Buenas y malas prácticas de *JOYCE* documentadas por *SEBASTIAN*
-       
+       Buenas prácticas:
+- Se usó el formato de una rama bien estructurada
+- Eliminó algunas ramas que ya fueron usadas
+Malas prácticas
+- No hizo uso de los prefijos en los commits 
+- Al hacer el merge no combinó bien a una de las ramas
      - Buenas y malas prácticas de *SEBASTIAN* docuemntadas por *NINEL*
        
      - Buenas y malas prácticas de *NINEL* documentadas por *DIEGO*
