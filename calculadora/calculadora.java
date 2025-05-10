@@ -1,6 +1,5 @@
- package calculadora;
 
-public class calculadora {
+public class Calculadora {
 
     // declaran sus varibles conrrespondientes 
     public Calculadora(){
@@ -12,13 +11,28 @@ public class calculadora {
     public double sumar (double valorA, double valorB){
         return valorA + valorB;
     }
-    // mi parte (ninel)
-    public static double dividir(double a, double b) {
-    if (b == 0) {
-        System.out.println("¡Error! División por cero.");
-        return 0;
+    
+    public double potencia(double valorA, double valorB){
+        double res;
+        res = Math.pow(valorA, valorB);
+        return res;
     }
-    return a / b;
-}
+
+
+    public double raizCuadrada(double valorA){
+        double res;
+        res = Math.sqrt(valorA);
+        return res;
+
+    }
+    
+    
+    public double restar (double valorA, double valorB){
+        return valorA - valorB;
+    } 
+
+    public static double multiplicacion(double valorA, double valorB){
+        return valorA*valorB;
+    }
 
 }
