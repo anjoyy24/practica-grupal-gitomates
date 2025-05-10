@@ -11,11 +11,12 @@
 - Tejerina Molina José Diego
 ---
     
-2. GITFLOW utilizado: GITHUB FLOW 
+2. GITFLOW utilizado: GITFLOW 
 ---
 
-3. BITACORA DEL PROYECTO (con relación al GitFlow ¿Les sirve ese GitFlow? ¿Qué problemas tuvieron? ¿Apareció algún conflicto? ¿Quién generó el conflicto y por qué?
-)
+3. BITACORA DEL PROYECTO
+   
+Elegimos GITFLOW al no tener conocimiento tan avanzado de CI, nos sirve ya que cada integrante implementó un nuevo *feature*, los cuales los mergeamos en la rama develop, para que la version final de nuestro proyecto este en la rama *main*. 
 
 
 
