@@ -40,12 +40,12 @@ no usa prefijos para hacer mas semanticos sus commits
        
 - Buenas y malas prácticas de *DIEGO* documentadas por *JOYCE*
 
-   **Buenas practicas:** 
-         * Nombró bien a su rama
-         * Nombró bien algunos de los commits que hizo
-  
-   **Malas practicas**
-         * Creó una rama extra que se llamaba ramaDiego la cual no explicaba lo que hacía
-             
+   **Buenas practicas:**
+  * Nombró bien a su rama
 
+  * Nombró bien algunos de los commits que hizo
+  
+   **Malas practicas:**
+  
+  * Creó una rama extra que se llamaba ramaDiego la cual no explicaba lo que hacía
 
