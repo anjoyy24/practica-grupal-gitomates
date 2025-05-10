@@ -35,4 +35,20 @@ public class Calculadora {
         return valorA*valorB;
     }
 
+    public static double dividir(double a, double b) {
+    if (b == 0) {
+        System.out.println("Error: No se puede dividir por cero.");
+        return 0;
+    }
+    return a / b;
+    }
+    try {
+        double resultado = dividir(10, 0);
+        System.out.println("Resultado: " + resultado);
+        } catch (ArithmeticException e) {
+        System.out.println("Error: " + e.getMessage());
+    }
+
+
+
 }
